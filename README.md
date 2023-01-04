@@ -19,6 +19,13 @@ This GitHub is one as my portfolio.
 - JavaScript
 - MySQL
 
+### Editor
+- Visual Studio Code
+- Obsidian (markdown)
+
+### Platform
+- XAMMP
+
 ### Interests
 - IT Consulting
 - Network Infrastructure
