@@ -3,7 +3,7 @@
 ---
 
 ### About Me
-I am Hiromi and from Japan. I am majoring Computer Science, Cybersecurity, and Information Technology at a University in Arkansas.
+I am Hiromi and from Japan. I am majoring Computer Science (BS), Cybersecurity (AS), and Information Technology (AS) at a University in Arkansas.
 This GitHub is one as my portfolio.
 
 ### Languages
@@ -21,14 +21,15 @@ This GitHub is one as my portfolio.
 
 ### Editor
 - Visual Studio Code
-- Obsidian (markdown)
 
-### Platform
+### Framework
 - XAMMP
+- Django
 
 ### Interests
 - IT Consulting
 - Network Infrastructure
+- Machine Learning
 
 ### Hobby
 - Coding (Recently, I am working on building several types of systems and mathematical/statistical formulas in C++ or Python.)
